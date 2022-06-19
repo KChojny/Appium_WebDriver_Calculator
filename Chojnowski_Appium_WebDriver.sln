@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chojnowski_Appium_WebDriver", "Chojnowski_Appium_WebDriver\Chojnowski_Appium_WebDriver.csproj", "{A6D163EC-C515-42DA-A988-0D7F9E72493B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D163EC-C515-42DA-A988-0D7F9E72493B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D163EC-C515-42DA-A988-0D7F9E72493B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D163EC-C515-42DA-A988-0D7F9E72493B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D163EC-C515-42DA-A988-0D7F9E72493B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90AA0C72-F011-4E83-91E7-494165A9038E}
+	EndGlobalSection
+EndGlobal
